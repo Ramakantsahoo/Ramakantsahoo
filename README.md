@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I am very Happy!!!
 <br><br>
 
-### Talk with me, I am kinda awesome:
+### Connect with me...
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 
