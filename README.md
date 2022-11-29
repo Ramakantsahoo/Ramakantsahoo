@@ -29,6 +29,7 @@
 [<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Adobe premiere pro" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />][Adobe premiere pro]
+[<img align="left" alt="figma" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />][figma]
 <br />
 <br />
 ---
@@ -57,3 +58,4 @@
 [C]: https://en.cppreference.com/w/c
 [C++]: https://en.cppreference.com/w/cpp
 [Adobe premiere pro]: https://www.adobe.com/products/premiere.html
+[figma]: https://cdn-icons-png.flaticon.com/512/5968/5968705.png
