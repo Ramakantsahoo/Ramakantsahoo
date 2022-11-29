@@ -14,20 +14,21 @@
 <br><br>
 
 ### Connect with me...
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="33px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="33px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="C language" width="26px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png" />][C]
-[<img align="left" alt="C++ language" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />][C++]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="C language" width="33px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png" />][C]
+[<img align="left" alt="C++ language" width="33px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />][C++]
+[<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Adobe premiere pro" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />][Adobe premiere pro]
 <br />
 <br />
 ---
@@ -55,3 +56,4 @@
 [css3]: https://www.w3schools.com/css/
 [C]: https://en.cppreference.com/w/c
 [C++]: https://en.cppreference.com/w/cpp
+[Adobe premiere pro]: https://www.adobe.com/products/premiere.html
