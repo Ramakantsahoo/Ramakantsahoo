@@ -58,4 +58,4 @@
 [C]: https://en.cppreference.com/w/c
 [C++]: https://en.cppreference.com/w/cpp
 [Adobe premiere pro]: https://www.adobe.com/products/premiere.html
-[figma]: https://cdn-icons-png.flaticon.com/512/5968/5968705.png
+[figma]: https://www.figma.com/
