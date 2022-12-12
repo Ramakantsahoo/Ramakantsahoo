@@ -59,3 +59,4 @@
 [C++]: https://en.cppreference.com/w/cpp
 [Adobe premiere pro]: https://www.adobe.com/products/premiere.html
 [figma]: https://www.figma.com/
+[Illustrator]: https://www.adobe.com/in/products/illustrator.html
