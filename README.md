@@ -42,11 +42,9 @@
 </details>
 <details>
   <summary>:zap: Most Used Languages</summary>
-<!-- 
-<img align="left" alt="Ramakant's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakantsahoo" /> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakantsahoo=vim%20script)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+<img align="left" alt="Ramakant's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakantsahoo" /> -->
 
-</details>
 
 [twitter]: https://twitter.com/Ramakant1202
 [linkedin]: https://www.linkedin.com/in/ramakanta-sahoo-0565a1240/
