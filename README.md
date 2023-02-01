@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
  
-<img align="left" alt="Ramakant's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakantsahoo" /> -->
+<img align="left" alt="Ramakant's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakantsahoo&theme=transparent" /> -->
 
 
 [twitter]: https://twitter.com/Ramakant1202
