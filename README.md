@@ -30,6 +30,7 @@
 [<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Adobe premiere pro" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />][Adobe premiere pro]
 [<img align="left" alt="React" width="33px" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" />][React]
+[<img align="left" alt="Node" width="33px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />][Node]
 <!-- [<img align="left" alt="figma" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />][figma] -->
 <br />
 <br />
@@ -61,3 +62,4 @@
 [figma]: https://www.figma.com/
 [Illustrator]: https://www.adobe.com/in/products/illustrator.html
 [React]: https://react.dev/
+[Node]: https://nodejs.org/en
