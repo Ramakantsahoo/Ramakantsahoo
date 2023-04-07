@@ -29,11 +29,11 @@
 [<img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
 [<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Adobe premiere pro" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />][Adobe premiere pro]
-[<img align="left" alt="React" width="33px" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" />][React]
+[<img align="left" alt="React" width="33px" src="https://cdn-icons-png.flaticon.com/512/3459/3459528.png" />][React] 
 [<img align="left" alt="Node" width="33px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />][Node]
 <!-- [<img align="left" alt="figma" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />][figma] -->
-<br />
-[<img align="left" alt="Node" width="34px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />][Postman]
+[<img align="left" alt="React" width="33px" src="https://camo.githubusercontent.com/b00d24054152da09886a70551e31790968b478fc8c38a1d569a8daedf5563af3/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f3235362f65787465726e616c2d706f73746d616e2d69732d7468652d6f6e6c792d636f6d706c6574652d6170692d646576656c6f706d656e742d656e7669726f6e6d656e742d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" />][Postman]
+
 <br />
 <br />
 ---
