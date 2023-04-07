@@ -33,6 +33,8 @@
 [<img align="left" alt="Node" width="33px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />][Node]
 <!-- [<img align="left" alt="figma" width="33px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />][figma] -->
 <br />
+[<img align="left" alt="Node" width="34px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />][Postman]
+<br />
 <br />
 ---
 
@@ -63,3 +65,4 @@
 [Illustrator]: https://www.adobe.com/in/products/illustrator.html
 [React]: https://react.dev/
 [Node]: https://nodejs.org/en
+[Postman]: https://www.postman.com/
