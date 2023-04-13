@@ -66,3 +66,4 @@
 [React]: https://react.dev/
 [Node]: https://nodejs.org/en
 [Postman]: https://www.postman.com/
+[Next.js]: https://nextjs.org/
