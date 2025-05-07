@@ -5,8 +5,6 @@
 
 ## I'm a Learner , Developer, Creator and Tech enthusiast!!!
 
-- 🔭 I’m currently working on a Web project
-- 🌱 I’m currently learning node js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
